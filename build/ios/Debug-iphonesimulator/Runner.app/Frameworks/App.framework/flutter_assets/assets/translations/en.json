@@ -1,0 +1,21 @@
+{
+  "language_ru": "Russian",
+  "language_en": "English",
+  "login": "Login",
+  "password": "Password",
+  "auth": {
+    "login": "@:login",
+    "password": "@:password",
+    "signIn": "Sign In",
+    "welcomeText": "Welcome to flutterBoilerplateApp",
+    "continueText": "Sign in to continue"
+  },
+  "validationErrors": {
+    "required": "Поле обязательно для заполнения",
+    "minLength": "Минимальная длина значения - {{requiredLength}}",
+    "maxLength": "Максимальная длина значения - {{requiredLength}}",
+    "min": "Минимальное значение - {{requiredLength}}",
+    "max": "Максимальное значение - {{requiredLength}}",
+    "email": "Не валидный Email"
+  }
+}

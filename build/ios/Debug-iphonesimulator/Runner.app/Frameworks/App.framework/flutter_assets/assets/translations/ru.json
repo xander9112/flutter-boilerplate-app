@@ -1,0 +1,43 @@
+{
+  "language_ru": "Русский",
+  "language_en": "Английский",
+  "login": "Логин",
+  "password": "Пароль",
+  "yes": "Да",
+  "no": "Нет",
+  "auth": {
+    "login": "@:login",
+    "password": "@:password",
+    "signIn": "Войти",
+    "welcomeText": "Доброе пожаловать в flutterBoilerplateApp",
+    "continueText": "Авторизуйтесь чтобы продолжить",
+    "pinCode": {
+      "reset": "Сбросить",
+      "setPinCode": "Задайте PIN код",
+      "repeatPinCode": "Повторите PIN код",
+      "enterPinCode": "Введите PIN код",
+      "errors": {
+        "codesDoNotMatch": "Коды не совпадают",
+        "wrongCode": "Не правильно указан код"
+      },
+      "dialogs": {
+        "confirmReset": {
+          "title": "Забыли пин код",
+          "content": "Будет сброшена сессия и вам придется авторизоваться заново."
+        },
+        "useBiometric": {
+          "title": "Использовать биометрию",
+          "content": "Вы хотите использовать биометрию"
+        }
+      }
+    }
+  },
+  "validationErrors": {
+    "required": "Поле обязательно для заполнения",
+    "minLength": "Минимальная длина значения - {{requiredLength}}",
+    "maxLength": "Максимальная длина значения - {{requiredLength}}",
+    "min": "Минимальное значение - {{requiredLength}}",
+    "max": "Максимальное значение - {{requiredLength}}",
+    "email": "Не валидный Email"
+  }
+}
